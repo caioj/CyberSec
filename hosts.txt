@@ -1,4 +1,0 @@
-www.google.com
-8.8.8.8
-www.youtube.com
-4.4.4.4
